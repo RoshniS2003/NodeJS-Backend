@@ -1,0 +1,17 @@
+{
+  "name": "shiksha-backend",
+  "version": "1.0.0",
+  "description": "Backend for education platform",
+  "keywords": [
+    "node.js",
+    "JavaScript",
+    "Express"
+  ],
+  "license": "ISC",
+  "author": "Roshni Sahu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
